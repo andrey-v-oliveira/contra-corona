@@ -1,248 +1,240 @@
-﻿País Português;País Inglês;População
-;Afghanistan;38928346
-;Albania;2877797
-;Algeria;43851044
-;American Samoa;55191
-;Andorra;77265
-;Angola;32866272
-;Antigua and Barbuda;15003
-;Argentina;97929
-;Armenia;45195774
-;Armenia;2963243
-;Aruba;106766
-;Australia;25499884
-;Christmas Island;1873
-;Cocos (Keeling) Islands;544
-;Norfolk Island;1748
-;Austria;9006398
-;Azerbaijan;10139177
-;Bahamas;393244
-;Bahrain;1701575
-;Bangladesh;164689383
-;Barbados;287375
-;Belarus;9449323
-;Belgium;11589623
-;Belize;397628
-;Benin;12123200
-;Bermuda;62278
-;Bhutan;771608
-;Bolivia;11673021
-;Bosnia and Herzegovina;3280819
-;Botswana;2351627
-;Brazil;212559417
-;British Virgin Islands;30231
-;Brunei;437479
-;Bulgaria;6948445
-;Burkina Faso;20903273
-;Burundi;11890784
-;Cabo Verde;555987
-;Cambodia;16718965
-;Cameroon;26545863
-;Canada;37742154
-;Cayman Islands;65722
-;Central African Republic;4829767
-;Chad;16425864
-;Channel Islands;173863
-;Jersey;105500
-;Chile;19116201
-;China;1447470092
-;Colombia;50882891
-;Comoros;869601
-;Congo (Brazzaville);5518087
-;Congo (Kinshasa);89561403
-;Cook Islands;17564
-;Costa Rica;5094118
-;Cote d'Ivoire;26378274
-;Croatia;4105267
-;Cuba;11326616
-;Curaçao;164093
-;Cyprus;1207359
-;Czechia;10708981
-;Denmark;5792202
-;Faeroe Islands;48863
-;Diamond Princess;3711
-;Djibouti;988
-;Dominica;71986
-;Dominican Republic;10847910
-;Ecuador;17643054
-;Egypt;102334404
-;El Salvador;6486205
-;Equatorial Guinea;1402985
-;Eritrea;3546421
-;Estonia;1326535
-;Eswatini;1160164
-;Ethiopia;114963588
-;Falkland Islands;3198
-;Fiji;896445
-;Finland;5540720
-;France;65273511
-;Guadeloupe;400124
-;Caribbean Netherlands;26223
-;Mayotte;272815
-;French Guiana;298682
-;Réunion;895312
-;French Polynesia;280908
-;Gabon;2225734
-;Gambia;2416668
-;Germany;83783942
-;Georgia;3989167
-;Ghana;31072940
-;Gibraltar;33691
-;Greece;10423054
-;Greenland;5677
-;Grenada;112523
-;Guam;168775
-;Guatemala;17915568
-;Guinea;13132795
-;Guinea-Bissau;1968001
-;Guyana;786552
-;Haiti;11402528
-;Holy See;801
-;Honduras;9904607
-;Hungary;9660351
-;Iceland;341243
-;India;1380004385
-;Indonesia;273523615
-;Iran;83992949
-;Iraq;40222493
-;Ireland;4937786
-;Isle of Man;85033
-;Israel;8655535
-;Italy;60461826
-;Jamaica;2961167
-;Japan;126476461
-;Jordan;10203134
-;Kazakhstan;18776707
-;Kenya;53771296
-;Kuwait;4270571
-;Kyrgyzstan;6524195
-;Kosovo;1798506
-;Laos;7275560
-;Latvia;1886198
-;Lebanon;6825445
-;Lesotho;2142249
-;Liberia;5057681
-;Libya;6871292
-;Liechtenstein;38128
-;Lithuania;2722289
-;Luxembourg;625978
-;Madagascar;27691018
-;Malawi;19129952
-;Malaysia;32365999
-;Maldives;540544
-;Mali;20250833
-;Malta;441543
-;Marshall Islands;5919
-;Martinique;375265
-;Mauritania;4649658
-;Mauritius;1271768
-;Mexico;128932753
-;Micronesia;115023
-;Moldova;4033963
-;Monaco;39242
-;Mongolia;3278290
-;Montenegro;628066
-;Montserrat;4992
-;Morocco;36910560
-;Mozambique;31255435
-;Myanmar;54409800
-;Burma;54409800
-;Namibia;2540905
-;Nauru;10824
-;Nepal;29136808
-;Netherlands;17134872
-;New Caledonia;285498
-;New Zealand;4822233
-;Nicaragua;6624554
-;Niger;24206644
-;Nigeria;206139589
-;Niue;1626
-;North Korea;25778816
-;North Macedonia;2083374
-;Northern Mariana Islands;57559
-;Norway;5421241
-;Oman;5106626
-;Pakistan;220892340
-;Palau;18094
-;State of Palestine;5101414
-;Panama;4314767
-;Papua New Guinea;8947024
-;Paraguay;7132538
-;Peru;32971854
-;Philippines;109581078
-;Poland;37846611
-;Portugal;10196709
-;Puerto Rico;2860853
-;Qatar;2881053
-;Romania;19237691
-;Russia;145934462
-;Rwanda;12952218
-;Saint Barthélemy;9877
-;Saint Helena, Ascension And Tristan Da Cunha;6077
-;Saint Kitts and Nevis;53199
-;Saint Lucia;183627
-;Saint Martin;38666
-;Saint Pierre And Miquelon;5794
-;Saint Vincent and the Grenadines;109803
-;Samoa;198414
-;San Marino;33931
-;Sao Tome And Principe;219159
-;Saudi Arabia;34813871
-;Senegal;16743927
-;Serbia;8737371
-;Seychelles;98347
-;Sierra Leone;7976983
-;Singapore;5850342
-;Sint Marteen;42876
-;Slovakia;5459642
-;Slovenia;2078938
-;Solomon Islands;686884
-;Somalia;15893222
-;South Africa;59308690
-;Korea, South;51269185
-;South Sudan;11193725
-;Spain;46754778
-;Sri Lanka;21413249
-;Sudan;43849260
-;Suriname;586632
-;Swaziland;1093238
-;St. Vincent and Grenadines;11094
-;Sweden;10099265
-;Switzerland;8654622
-;Syria;17500658
-;Taiwan*;23816775
-;Tajikistan;9537645
-;Tanzania;59734218
-;Thailand;69799978
-;Timor-Leste;1318445
-;Togo;8278724
-;Tokelau;1357
-;Tonga;105695
-;Transnistria;469000
-;Trinidad and Tobago;1399488
-;Tunisia;11818619
-;Turkey;84339067
-;Northern Cyprus;351965
-;Turkmenistan;6031200
-;Turks And Caicos Islands;38717
-;Tuvalu;11792
-;United States Virgin Islands;104425
-;Uganda;45741007
-;Ukraine;43733762
-;United Arab Emirates;9890402
-;United Kingdom;67886011
-;Guernsey;62063
-;Pitcairn Islands;50
-;Uruguay;3473730
-;US;331002651
-;Uzbekistan;33469203
-;Vanuatu;307145
-;Venezuela;28435940
-;Vietnam;97338579
-;Wallis And Futuna;11239
-;West Bank and Gaza;4493119
-;Western Sahara;597339
-;Yemen;29825964
-;Zambia;18383955
-;Zimbabwe;14862924
-;MS Zaandam;1829
+Pais Inglês,País Português,População
+China,China,1439323776
+India,Índia,1380004385
+US,Estados Unidos,331002651
+Indonesia,Indonésia,273523615
+Pakistan,Paquistão,220892340
+Brazil,Brasil,212559417
+Nigeria,Nigéria,206139589
+Bangladesh,Bangladesh,164689383
+Russia,Rússia,145934462
+Mexico,México,128932753
+Japan,Japão,126476461
+Ethiopia,Etiópia,114963588
+Philippines,Filipinas,109581078
+Egypt,Egito,102334404
+Vietnam,Vietnã,97338579
+Congo (Kinshasa),República Democrática do Congo,89561403
+Turkey,Turquia,84339067
+Iran,Irã,83992949
+Germany,Alemanha,83783942
+Thailand,Tailândia,69799978
+United Kingdom,Reino Unido,67886011
+France,França,65273511
+Italy,Itália,60461826
+Tanzania,Tanzânia,59734218
+South Africa,África do Sul,59308690
+Burma,Myanmar,54409800
+Kenya,Quénia,53771296
+"Korea, South",Coreia do Sul,51269185
+Colombia,Colômbia,50882891
+Spain,Espanha,46754778
+Uganda,Uganda,45741007
+Argentina,Argentina,45195774
+Algeria,Argélia,43851044
+Sudan,Sudão,43849260
+Ukraine,Ucrânia,43733762
+Iraq,Iraque,40222493
+Afghanistan,Afeganistão,38928346
+Poland,Polónia,37846611
+Canada,Canadá,37742154
+Morocco,Marrocos,36910560
+Saudi Arabia,Arábia Saudita,34813871
+Uzbekistan,Uzbequistão,33469203
+Peru,Peru,32971854
+Angola,Angola,32866272
+Malaysia,Malásia,32365999
+Mozambique,Moçambique,31255435
+Ghana,Gana,31072940
+Yemen,Iémen,29825964
+Nepal,Nepal,29136808
+Venezuela,Venezuela,28435940
+Madagascar,Madagascar,27691018
+Cameroon,Camarões,26545863
+Cote d'Ivoire,Costa do Marfim,26378274
+North Korea,Coreia do Norte,25778816
+Australia,Austrália,25499884
+Niger,Níger,24206644
+Taiwan*,Taiwan,23816775
+Sri Lanka,Sri Lanka,21413249
+Burkina Faso,Burkina Faso,20903273
+Mali,Mali,20250833
+Romania,Roménia,19237691
+Malawi,Malawi,19129952
+Chile,Chile,19116201
+Kazakhstan,Cazaquistão,18776707
+Zambia,Zâmbia,18383955
+Guatemala,Guatemala,17915568
+Ecuador,Equador,17643054
+Syria,Síria,17500658
+Netherlands,Países Baixos,17134872
+Senegal,Senegal,16743927
+Cambodia,Camboja,16718965
+Chad,Chade,16425864
+Somalia,Somália,15893222
+Zimbabwe,Zimbábue,14862924
+Guinea,Guiné,13132795
+Rwanda,Ruanda,12952218
+Benin,Benim,12123200
+Burundi,Burundi,11890784
+Tunisia,Tunísia,11818619
+Bolivia,Bolívia,11673021
+Belgium,Bélgica,11589623
+Haiti,Haiti,11402528
+Cuba,Cuba,11326616
+South Sudan,Sudão do Sul,11193725
+Dominican Republic,República Dominicana,10847910
+Czechia,República Tcheca,10708981
+Greece,Grécia,10423054
+Jordan,Jordânia,10203134
+Portugal,Portugal,10196709
+Azerbaijan,Azerbaijão,10139177
+Sweden,Suécia,10099265
+Honduras,Honduras,9904607
+United Arab Emirates,Emirados Árabes Unidos,9890402
+Hungary,Hungria,9660351
+Tajikistan,Tajiquistão,9537645
+Belarus,Bielorrússia,9449323
+Austria,Áustria,9006398
+Papua New Guinea,Papua-Nova Guiné,8947024
+Serbia,Sérvia,8737371
+Israel,Israel,8655535
+Switzerland,Suíça,8654622
+Togo,Togo,8278724
+Sierra Leone,Serra Leoa,7976983
+Hong Kong,Hong Kong,7496981
+Laos,Laos,7275560
+Paraguay,Paraguai,7132538
+Bulgaria,Bulgária,6948445
+Libya,Líbia,6871292
+Lebanon,Líbano,6825445
+Nicaragua,Nicarágua,6624554
+Kyrgyzstan,Quirguistão,6524195
+El Salvador,El Salvador,6486205
+Turkmenistan,Turcomenistão,6031200
+Singapore,Singapura,5850342
+Denmark,Dinamarca,5792202
+Finland,Finlândia,5540720
+Congo (Brazzaville),República do Congo,5518087
+Slovakia,Eslováquia,5459642
+Norway,Noruega,5421241
+Oman,Omã,5106626
+State of Palestine,Palestina,5101414
+Costa Rica,Costa Rica,5094118
+Liberia,Libéria,5057681
+Ireland,Irlanda,4937786
+Central African Republic,República Centro-Africana,4829767
+New Zealand,Nova Zelândia,4822233
+Mauritania,Mauritânia,4649658
+Panama,Panamá,4314767
+Kuwait,Kuwait,4270571
+Croatia,Croácia,4105267
+Moldova,Moldávia,4033963
+Georgia,Geórgia,3989167
+Eritrea,Eritreia,3546421
+Uruguay,Uruguai,3473730
+Bosnia and Herzegovina,Bósnia e Herzegovina,3280819
+Mongolia,Mongólia,3278290
+Armenia,Arménia,2963243
+Jamaica,Jamaica,2961167
+Qatar,Catar,2881053
+Albania,Albânia,2877797
+Puerto Rico,Porto Rico,2860853
+Lithuania,Lituânia,2722289
+Namibia,Namíbia,2540905
+Gambia,Gâmbia,2416668
+Botswana,Botswana,2351627
+Gabon,Gabão,2225734
+Lesotho,Lesoto,2142249
+North Macedonia,Macedônia do Norte,2083374
+Slovenia,Eslovénia,2078938
+Guinea-Bissau,Guiné-Bissau,1968001
+Latvia,Letónia,1886198
+Bahrain,Bahrein,1701575
+Equatorial Guinea,Guiné Equatorial,1402985
+Trinidad and Tobago,Trinidad e Tobago,1399488
+Estonia,Estónia,1326535
+Timor-Leste,Timor-Leste,1318445
+Mauritius,Ilhas Maurício,1271768
+Cyprus,Chipre,1207359
+Eswatini,Essuatíni,1160164
+Djibouti,Djibouti,988
+Fiji,Fiji,896445
+Réunion,Ilha da Reunião,895312
+Comoros,Comores,869601
+Guyana,Guiana,786552
+Bhutan,Butão,771608
+Solomon Islands,Ilhas Salomão,686884
+Macao,Macau,649335
+Montenegro,Montenegro,628066
+Luxembourg,Luxemburgo,625978
+Western Sahara,Saara Ocidental,597339
+Suriname,Suriname,586632
+Cabo Verde,Cabo Verde,555987
+Maldives,Maldivas,540544
+Malta,Malta,441543
+Brunei,Brunei,437479
+Guadeloupe,Guadalupe,400124
+Belize,Belize,397628
+Bahamas,Bahamas,393244
+Martinique,Martinica,375265
+Iceland,Islândia,341243
+Vanuatu,Vanuatu,307145
+French Guiana,Guiana Francesa,298682
+Barbados,Barbados,287375
+New Caledonia,Nova Caledônia,285498
+French Polynesia,Polinésia Francesa,280908
+Mayotte,Mayotte,272815
+Sao Tome & Principe,São Tomé e Príncipe,219159
+Samoa,Samoa,198414
+Saint Lucia,Santa Lúcia,183627
+Channel Islands,Ilhas do Canal,173863
+Guam,Guam,168775
+Curaçao,Curaçao,164093
+Kiribati,Kiribati,119449
+Micronesia,Estados Federados da Micronésia,115023
+Grenada,Granada,112523
+Saint Vincent and the Grenadines,São Vicente e Granadinas,11094
+Aruba,Aruba,106766
+Tonga,Tonga,105695
+U.S. Virgin Islands,Ilhas Virgens Americanas,104425
+Seychelles,Seychelles,98347
+Antigua and Barbuda,Antígua e Barbuda,97929
+Isle of Man,Ilha de Man,85033
+Andorra,Andorra,77265
+Dominica,Domínica,71986
+Cayman Islands,Ilhas Cayman,65722
+Bermuda,Bermudas,62278
+Marshall Islands,Ilhas Marshall,5919
+Northern Mariana Islands,Ilhas Marianas do Norte,57559
+Greenland,Groenlândia,5677
+American Samoa,Samoa Americana,55191
+Saint Kitts and Nevis,São Cristóvão e Névis,53199
+Faeroe Islands,Ilhas Faroé,48863
+Sint Maarten,São Martinho,42876
+Monaco,Mónaco,39242
+Turks and Caicos,Turks e Caicos,38717
+Saint Martin,Ilha de São Martinho,38666
+Liechtenstein,Liechtenstein,38128
+San Marino,San Marino,33931
+Gibraltar,Gibraltar,33691
+British Virgin Islands,Ilhas Virgens Britânicas,30231
+Caribbean Netherlands,Países Baixos Caribenhos,26223
+Palau,Palau,18094
+Cook Islands,Ilhas Cook,17564
+Anguilla,Anguilla,15003
+Tuvalu,Tuvalu,11792
+Wallis & Futuna,Wallis e Futuna,11239
+Nauru,Nauru,10824
+Saint Barthelemy,São Bartolomeu,9877
+Saint Helena,Santa Helena,6077
+Saint Pierre & Miquelon,Saint-Pierre e Miquelon,5794
+Montserrat,Montserrat,4992
+Falkland Islands,Ilhas Malvinas,348
+Niue,Niue,1626
+Tokelau,Tokelau,1357
+Holy See,Santa Sé,801
+Kosovo,Kosovo,1809740
+Diamond Princess,Diamond Princess,3711
+MS Zaandam,MS Zaandam,1829
+West Bank and Gaza,Cisjordânia e Faixa de Gaza,4493119
