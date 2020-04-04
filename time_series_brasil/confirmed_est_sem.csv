@@ -1,28 +1,28 @@
 Estado Nome,1,2,3,4,5,6
-Acre,0,0,0,17,42,43
-Alagoas,0,1,1,9,18,18
-Amazonas,0,0,1,47,175,229
-Amapá,0,0,0,1,10,11
-Bahia,0,2,3,76,213,267
-Ceará,0,0,5,182,390,550
-Distrito Federal,0,1,22,160,332,370
-Espírito Santo,0,1,1,33,84,120
-Goiás,0,0,6,27,65,73
-Maranhão,0,0,0,8,31,71
-Minas Gerais,0,1,7,130,275,370
-Mato Grosso do Sul,0,0,4,23,48,53
-Mato Grosso,0,0,0,7,25,36
-Pará,0,0,0,5,32,46
-Paraíba,0,0,0,3,17,21
-Pernambuco,0,0,16,42,87,106
-Piauí,0,0,0,6,18,19
-Paraná,0,0,6,65,179,252
-Rio de Janeiro,0,8,33,305,708,992
-Rio Grande do Norte,0,0,1,13,82,105
+Acre,0,0,0,17,42,46
+Alagoas,0,1,1,9,18,22
+Amazonas,0,0,1,47,175,260
+Amapá,0,0,0,1,10,19
+Bahia,0,2,3,76,213,282
+Ceará,0,0,5,182,390,627
+Distrito Federal,0,1,22,160,332,402
+Espírito Santo,0,1,1,33,84,139
+Goiás,0,0,6,27,65,88
+Maranhão,0,0,0,8,31,81
+Minas Gerais,0,1,7,130,275,397
+Mato Grosso do Sul,0,0,4,23,48,60
+Mato Grosso,0,0,0,7,25,44
+Pará,0,0,0,5,32,50
+Paraíba,0,0,0,3,17,29
+Pernambuco,0,0,16,42,87,136
+Piauí,0,0,0,6,18,21
+Paraná,0,0,6,65,179,301
+Rio de Janeiro,0,8,33,305,708,1074
+Rio Grande do Norte,0,0,1,13,82,176
 Rondônia,0,0,0,3,8,10
-Roraima,0,0,0,2,16,26
-Rio Grande do Sul,0,1,10,98,274,334
-Santa Catarina,0,0,7,107,219,247
-Sergipe,0,0,4,15,19,23
-São Paulo,2,19,164,810,2339,3506
+Roraima,0,0,0,2,16,30
+Rio Grande do Sul,0,1,10,98,274,396
+Santa Catarina,0,0,7,107,219,281
+Sergipe,0,0,4,15,19,25
+São Paulo,2,19,164,810,2339,4048
 Tocantins,0,0,0,7,11,12
