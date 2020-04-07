@@ -1,29 +1,29 @@
 Estado Nome,Casos,Mortes,População
-Acre,48,0,881935
-Alagoas,28,2,3337357
-Amazonas,417,14,4144597
-Amapá,29,2,845731
-Bahia,401,9,14873064
-Ceará,823,26,9132078
-Distrito Federal,468,7,3015268
-Espírito Santo,166,6,4018650
-Goiás,115,3,7018354
-Maranhão,96,2,7075181
-Minas Gerais,498,6,21168791
-Mato Grosso do Sul,65,1,2778986
-Mato Grosso,60,1,3484466
-Pará,86,1,8602865
-Paraíba,34,4,4018127
-Pernambuco,201,21,9557071
+Acre,50,0,881935
+Alagoas,31,2,3337357
+Amazonas,532,19,4144597
+Amapá,34,2,845731
+Bahia,431,10,14873064
+Ceará,1013,29,9132078
+Distrito Federal,473,10,3015268
+Espírito Santo,194,6,4018650
+Goiás,119,5,7018354
+Maranhão,133,2,7075181
+Minas Gerais,525,9,21168791
+Mato Grosso do Sul,66,1,2778986
+Mato Grosso,76,1,3484466
+Pará,102,3,8602865
+Paraíba,35,4,4018127
+Pernambuco,223,30,9557071
 Piauí,23,4,3273227
-Paraná,438,9,11433957
-Rio de Janeiro,1394,64,17264943
-Rio Grande do Norte,242,7,3506853
-Rondônia,12,1,1777225
+Paraná,458,11,11433957
+Rio de Janeiro,1461,71,17264943
+Rio Grande do Norte,246,7,3506853
+Rondônia,14,1,1777225
 Roraima,42,1,605761
-Rio Grande do Sul,418,7,11377239
-Santa Catarina,357,10,7164788
-Sergipe,32,3,2298696
-São Paulo,4620,275,45919049
+Rio Grande do Sul,481,7,11377239
+Santa Catarina,379,10,7164788
+Sergipe,32,4,2298696
+São Paulo,4866,304,45919049
 Tocantins,17,0,1572866
-Brasil,11130,486,210147125
+Brasil,12056,553,210147125
