@@ -1,28 +1,28 @@
 Estado Nome,1,2,3,4,5,6
-Acre,0,0,0,0,0,0
+Acre,0,0,0,0,0,1
 Alagoas,0,0,0,0,1,2
-Amazonas,0,0,0,0,3,19
+Amazonas,0,0,0,0,3,23
 Amapá,0,0,0,0,0,2
-Bahia,0,0,0,0,2,10
-Ceará,0,0,0,0,7,29
-Distrito Federal,0,0,0,0,3,10
+Bahia,0,0,0,0,2,12
+Ceará,0,0,0,0,7,31
+Distrito Federal,0,0,0,0,3,12
 Espírito Santo,0,0,0,0,0,6
 Goiás,0,0,0,0,1,5
-Maranhão,0,0,0,0,1,2
-Minas Gerais,0,0,0,0,2,9
-Mato Grosso do Sul,0,0,0,0,1,1
+Maranhão,0,0,0,0,1,4
+Minas Gerais,0,0,0,0,2,11
+Mato Grosso do Sul,0,0,0,0,1,2
 Mato Grosso,0,0,0,0,0,1
-Pará,0,0,0,0,0,3
+Pará,0,0,0,0,0,5
 Paraíba,0,0,0,0,0,4
-Pernambuco,0,0,0,0,6,30
+Pernambuco,0,0,0,0,6,34
 Piauí,0,0,0,0,4,4
-Paraná,0,0,0,0,3,11
-Rio de Janeiro,0,0,0,6,23,71
-Rio Grande do Norte,0,0,0,0,1,7
+Paraná,0,0,0,0,3,15
+Rio de Janeiro,0,0,0,6,23,89
+Rio Grande do Norte,0,0,0,0,1,8
 Rondônia,0,0,0,0,1,1
 Roraima,0,0,0,0,0,1
-Rio Grande do Sul,0,0,0,0,4,7
-Santa Catarina,0,0,0,0,2,10
+Rio Grande do Sul,0,0,0,0,4,8
+Santa Catarina,0,0,0,0,2,11
 Sergipe,0,0,0,0,0,4
-São Paulo,0,0,1,40,136,304
+São Paulo,0,0,1,40,136,371
 Tocantins,0,0,0,0,0,0
